@@ -32,7 +32,7 @@ function carrousel(contenedor){
     });
 }
 
-document.addEventListener("DOMContentLoaded", () =>{
+document.addEventListener("DOMContentLoaded", () => {
     let contenedor = document.querySelector('.contenedor');
 
     carrousel(contenedor);
