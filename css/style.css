@@ -86,12 +86,12 @@ img{
 
 .atras{
     left:2%;
-    top:calc(50% - 200px);
+    top:calc(50% - 40px);
 }
 
 .adelante{
     right: 2%;
-    top:calc(50% - 200px);
+    top:calc(50% - 40px);
 }
 
 
