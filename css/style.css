@@ -42,7 +42,6 @@ header h1{
     
 }
 
-
 /* fin header */
 
 
@@ -131,10 +130,26 @@ img{
     border:2px solid red;
     height: 400px;
     margin: 0 auto;
+    display: flex;
 }
 
 .prod{
     font-size: 36px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.produc{
+    width: 250px;
+    height: 300px;
+    border: 2px solid green;
+    
+  
+}
+
+.productos{
+    justify-content: space-around;
+    align-items: center;
 }
