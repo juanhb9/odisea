@@ -128,7 +128,7 @@ img{
 .contenedor_prod{
     width: 80%;
     border:2px solid red;
-    height: 400px;
+    height: 800px;
     margin: 0 auto;
     display: flex;
 }
@@ -152,4 +152,9 @@ img{
 .productos{
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
+}
+
+.produc{
+    margin: 5px 0px;
 }
