@@ -170,3 +170,14 @@ img{
     font-family: 'Poppins', sans-serif;
     
 }
+
+.servicios{
+    width: 80%;
+    height: 600px;
+    border:2px solid orange;
+    margin: 0 auto;
+}
+
+.servi{
+    font-size: 48px;
+}
